@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "2 Nick Local API"
+  description: "2 Nick Local API"
+  annotations:
+    github.com/project-slug: 
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "1 Nick Test Team|Nicholas_Rocksvold@comcast.com"
